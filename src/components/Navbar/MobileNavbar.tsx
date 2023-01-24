@@ -41,7 +41,7 @@ const Body = styled("div")`
     color: red;
   }
 `
-
+//net
 const MobileNavbar: React.FC = () => {
   const navigate = useNavigate()
   const handleNavigateClick = (category: string) => {
